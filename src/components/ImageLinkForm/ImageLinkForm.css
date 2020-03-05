@@ -1,0 +1,27 @@
+:root {
+   --font-4: 1.25rem;
+   --font-3: 1.5rem; 
+}
+
+
+.ImageLinkForm p {
+    font-size: var(--font-3);
+    color: whitesmoke;
+}
+
+.ImageLinkForm-inner {
+   
+}
+
+.ImageLinkForm input {
+    border: 2px solid cadetblue;
+    font-size: var(--font-4);
+    width: 50%;
+    display: inline;
+}
+
+.ImageLinkForm button {
+    vertical-align: initial;
+    font-size: var(--font-4);
+    margin-left: .5rem;
+}
