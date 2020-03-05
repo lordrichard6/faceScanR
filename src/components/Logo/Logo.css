@@ -1,0 +1,19 @@
+.logo {
+    margin: 4rem;
+    margin-top: 0;
+    padding-top: 4rem;
+}
+
+.Tilt {
+    border-radius: 4px;
+    box-shadow: 0px 0px 4px 2px rgba( 0, 0, 0, 0.2 );
+    background: linear-gradient(-135deg, rgb(34, 76, 152) 10%, transparent);
+}
+
+.Tilt-inner {
+    padding: 2rem;
+}
+
+.Tilt-inner img {
+    width: 12rem;
+}
